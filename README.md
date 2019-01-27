@@ -12,9 +12,9 @@
 
 ## General Info
 
-<img align="middle" height="200px" width="200px" src="images/dog-icon.svg" alt="Dog Party Logo">
+<img height="200px" width="200px" src="images/dog-icon.svg" alt="Dog Party Logo">
 
-<h4 align="middle">A project for practicing HTML, CSS, and a touch of JS for Turing's Front-End Engineering course, Module 1.</h4>
+<h4>A project for practicing HTML, CSS, and a touch of JS for Turing's Front-End Engineering course, Module 1.</h4>
 
 
 ## Motivation
@@ -31,10 +31,9 @@ Dog Party is a project I was assigned as a new student at Turing.  We were given
 
 ## Screenshots
 
-<img align="middle" src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Desktop1.png" alt="Top of website on desktop">
-<img align="middle" src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Desktop2.png" alt="Bottom of website on desktop">
-<img align="middle" src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Mobile1.png" alt="Top of website on mobile">
-<img align="middle" src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Mobile2.png" alt="Bottom of website on mobile">
+<img src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Desktop.png" alt="Website screenshot on desktop">
+<img src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Mobile1.png" alt="Top of website on mobile">
+<img src="https://github.com/lynnerang/dog-party-website/blob/master/screenshots/Mobile2.png" alt="Website columns on mobile">
 
 
 ## Features
