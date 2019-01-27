@@ -12,7 +12,7 @@
 
 ## Lynne's Dog Party
 
-<img align="center" src="dog-icon.svg" alt="Dog Party Logo">
+<img align="center" src="images/dog-icon.svg" alt="Dog Party Logo">
 
 <h4 align="center">A project for practicing HTML, CSS, and a touch of JS for Turing's Front-End Engineering course, Module 1.</h4>
 
