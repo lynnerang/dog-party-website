@@ -60,7 +60,7 @@ View <a href="https://github.com/lynnerang/dog-party-website">here</a> on my Git
 
 OR 
 
-Download and unzip the lynne-dog-party.zip file, and open the index.html file to view the website.
+Download and unzip the dog-party-website.zip file, and open the index.html file to view the website.
 
 
 ## License
