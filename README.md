@@ -1,11 +1,11 @@
 # Dog Party Project
 
 ## Table of contents
-* [General info](#Lynne's Dog Party)
+* [General info](#Lynne's-Dog-Party)
 * [Motivation](#Motivation)
-* [Built With](#Built With)
+* [Built With](#Built-With) 
 * [Screenshots](#Screenshots)
-* [How to Use](#How to Use)
+* [How to Use](#How-to-Use)
 * [Tests](#Tests)
 * [Setup](#Setup)
 * [License](#License)
