@@ -1,0 +1,213 @@
+/*General styles*/
+
+body {
+  font-family: 'Open Sans', sans-serif, Helvetica, Arial;
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  border-color: #048eaa;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 5px;
+  height: 175px;
+  margin-bottom: 10px;
+  width: 175px;
+}
+
+
+/*Navigation Bar*/
+
+nav {
+  background-color: #75e2e6;
+  border-color: #048eaa;
+  border-style: solid;
+  border-width: 0px 0px 3px 0px;
+  height: 60px;
+  position: fixed;
+  width: 100%;
+}
+
+nav a {
+  color: black;
+  display: inline;
+  padding: 0px 15px;
+  text-decoration: none;
+}
+
+.nav-left {
+  display: inline;
+  float: left;
+}
+
+.nav-left img {
+  border: none;
+  height: 45px;
+  padding: 8px 15px 8px 15px;
+  width: 45px;
+}
+
+.nav-right {
+  display: inline;
+  float: right;
+  padding: 15px 20px 20px 25px;
+}
+
+.nav-right .icon {
+  display: none;
+}
+
+
+/*Header with park photo background*/
+
+header {
+  background-repeat: no-repeat;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/park.jpg");
+  background-size: 100% 600px;
+  color: white;
+  height: 475px;
+  margin: 0 auto;
+  padding-top: 63px;
+  text-align: center;
+  width: 100%;
+}
+
+header:after {
+  clear: both;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+form {
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+}
+
+form p {
+  font-weight: lighter;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+#dog-name-input {
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 3px;
+  font-size: 18px;
+  height: 45px;
+  padding: 0px 0px 0px 10px;
+  width: 340px;
+}
+
+button {
+  border-radius: 2px;
+  font-size: 17px;
+  height: 45px;
+  padding: 0px;
+}
+
+#dog-name-button {
+  background-color: #75e2e6;
+  border: solid 1px grey;
+  font-weight: 600;
+  margin: 20px 0px;
+  width: 350px;
+}
+
+
+/*Section with dog photos and details*/
+
+.dogList {
+padding-bottom: 20px;
+}
+
+.column {
+  display: inline-block;
+  margin: 0 -2px;
+  text-align: center;
+  width: 33.33%;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 30px 20px;
+}
+
+.dog-btn {
+  background-color: #048eaa;
+  border: none;
+  color: white;
+  margin: 20px 0px;
+  width: 275px;
+}
+
+.dog-blurb {
+  min-height: 230px;
+  margin: 0 auto;
+  max-width: 275px;
+  padding-top: 15px;
+  text-align: left;
+}
+
+
+/*Footer w/ social media links*/
+
+footer {
+  background-color: #048eaa;
+  color: white;
+  padding: 20px 10px 30px 10px;
+  text-align: center;
+}
+
+footer img {
+  border-radius: 0%;
+  display: inline;
+  height: 45px;
+  padding: 20px 5px 0px 5px;
+  width: 45px;
+}
+
+.social {
+  margin-bottom: 0px;
+}
+
+
+/*Responsive behavior*/
+
+@media screen and (max-width: 680px) {
+
+  /*Make nav items disappear and icon appear when screen is under 600px width*/
+  
+  .nav-right a {display: none;}
+  .nav-right a.icon {
+    color: black;
+    display: block;
+    float: right;
+    font-size: 25px!important;
+  }
+
+  .column { 
+    display: block; 
+    width: 100%; 
+  }
+
+  .dog-blurb {
+    max-height: 500px;
+    min-height: none;
+  }
+}
+

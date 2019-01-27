@@ -1,0 +1,18 @@
+
+var btnClick = document.getElementById('dog-name-button');
+
+
+btnClick.addEventListener('click', clickButton);
+
+  
+function clickButton() {
+  var dogName = document.getElementById('dog-name-input').value;
+  document.querySelector('.bold').innerText = dogName;
+}
+
+/*
+function clickButton(event) {
+  event.preventDefault();
+  alert('test');
+}
+*/
