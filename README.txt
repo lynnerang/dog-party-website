@@ -12,7 +12,7 @@
 
 ## Lynne's Dog Party
 
-<img align="center" src="images/dog-icon.svg" alt="Dog Party Logo">
+<img align="center" height="300px" width="350px" src="images/dog-icon.svg" alt="Dog Party Logo">
 
 <h4 align="center">A project for practicing HTML, CSS, and a touch of JS for Turing's Front-End Engineering course, Module 1.</h4>
 
@@ -31,9 +31,10 @@ Dog Party is a project I was assigned as a new student at Turing.  We were given
 
 ## Screenshots
 
-<img align="center" src="" alt="">
-<img align="center" src="" alt="">
-<img align="center" src="" alt="">
+<img align="center" src="images/desktop1.png" alt="Top of website on desktop">
+<img align="center" src="images/desktop2.png" alt="Bottom of website on desktop">
+<img align="center" src="images/mobile1.png" alt="Top of website on mobile">
+<img align="center" src="images/mobile1.png" alt="Bottom of website on mobile">
 
 
 ## Features
@@ -55,7 +56,7 @@ Dog Party is a project I was assigned as a new student at Turing.  We were given
 
 ## Setup
 
-View <a href="">here</a> on my GitHub.
+View <a href="https://github.com/lynnerang/dog-party-website">here</a> on my GitHub.
 
 OR 
 
