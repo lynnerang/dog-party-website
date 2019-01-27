@@ -19,7 +19,7 @@
 
 ## Motivation
 
-Dog Party is a project I was assigned as a new student at Turing.  We were given a static comp with limited styling details (e.g. a few color hex codes) to reproduce from scratch in code.  This was primarily working with HTML and CSS, and we also had a chance to experiment with form functionality using JavaScript and CSS media queries for making the design responsive.
+Dog Party is a project I was assigned as a new student at Turing.  We were given a static comp with limited styling details (e.g. a few color hex codes) to reproduce from scratch in code.  This was primarily working with HTML and CSS, and we also had a chance to experiment with form functionality using JavaScript and CSS media queries for making the design responsive.  See the comp <a href="http://frontend.turing.io/assets/images/dog-party-js-edition.jpg">here</a>.
 
 
 ## Built With
